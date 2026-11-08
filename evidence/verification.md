@@ -1,0 +1,57 @@
+# Сводная проверка
+
+| Прогон | Ожидаемый код | Фактический код | Результат |
+|---|---:|---:|---|
+| python_tests | 0 | 0 | OK |
+| compile | 0 | 0 | OK |
+| web01_init | 0 | 0 | OK |
+| web01_repeat | 0 | 0 | OK |
+| web01_schema | 0 | 0 | OK |
+| bash_basics_healthy | 0 | 0 | OK |
+| bash_basics_stopped | 1 | 1 | OK |
+| bash_basics_duplicate | 1 | 1 | OK |
+| linux_kernel_healthy | 0 | 0 | OK |
+| linux_kernel_stopped | 1 | 1 | OK |
+| linux_kernel_duplicate | 1 | 1 | OK |
+| backup_setup | 0 | 0 | OK |
+| extended_healthy | 0 | 0 | OK |
+| extended_broken_backup | 1 | 1 | OK |
+| extended_empty_config | 1 | 1 | OK |
+| extended_duplicate_csv | 1 | 1 | OK |
+| system_insecure_permissions | 1 | 1 | OK |
+| system_error_log | 1 | 1 | OK |
+| system_full | 1 | 1 | OK |
+| system_after_fix | 0 | 0 | OK |
+| stlc_healthy | 0 | 0 | OK |
+| stlc_missing_robots | 1 | 1 | OK |
+| stlc_restored | 0 | 0 | OK |
+| stlc_public_example | 1 | 1 | OK |
+| bash_real_stop | 1 | 1 | OK |
+| jsonops_01_write | 0 | 0 | OK |
+| jsonops_02_read | 0 | 0 | OK |
+| jsonops_04_format | 0 | 0 | OK |
+| jsonops_users_report | 0 | 0 | OK |
+| jsonops_warehouse_report | 0 | 0 | OK |
+| jsonops_healthy | 0 | 0 | OK |
+| jsonops_edit | 0 | 0 | OK |
+| jsonops_after_edit | 0 | 0 | OK |
+| jsonops_homework_edit | 0 | 0 | OK |
+| jsonops_diff | 0 | 0 | OK |
+| jsonops_pretty | 0 | 0 | OK |
+| jsonops_broken | 1 | 1 | OK |
+| jsonops_json_tool_broken | 1 | 1 | OK |
+| jsonops_reset | 0 | 0 | OK |
+| jsonops_restored | 0 | 0 | OK |
+| jsonval_healthy | 0 | 0 | OK |
+| jsonval_syntax | 1 | 1 | OK |
+| jsonval_missing | 1 | 1 | OK |
+| jsonval_type | 1 | 1 | OK |
+| jsonval_duplicate | 1 | 1 | OK |
+| jsonval_extra | 1 | 1 | OK |
+| jsonval_email | 1 | 1 | OK |
+| jsonval_encoding | 1 | 1 | OK |
+| jsonval_price | 1 | 1 | OK |
+| jsonval_status | 1 | 1 | OK |
+| jsonval_restored | 0 | 0 | OK |
+| postman_positive | 0 | 0 | OK |
+| postman_negative | 1 | 1 | OK |

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "web01",
+    "pdf": "МДК09_ПР01_SQLite_Миронова_Анна_Андреевна_4-ИСП9-46.pdf",
+    "title": "МДК.09.01 №1: Инициализация базы данных SQLite",
+    "code": "web/practice_01"
+  },
+  {
+    "id": "web02",
+    "pdf": "МДК09_ПР02_CRUD_Миронова_Анна_Андреевна_4-ИСП9-46.pdf",
+    "title": "МДК.09.01 №2: Базовые CRUD-операции через консоль",
+    "code": "web/practice_02"
+  },
+  {
+    "id": "web03",
+    "pdf": "МДК09_ПР03_Flask_Миронова_Анна_Андреевна_4-ИСП9-46.pdf",
+    "title": "МДК.09.01 №3: Подключение Flask и первый маршрут",
+    "code": "web/practice_03"
+  },
+  {
+    "id": "web04",
+    "pdf": "МДК09_ПР04_Чтение_Миронова_Анна_Андреевна_4-ИСП9-46.pdf",
+    "title": "МДК.09.01 №4: Flask и SQLite: чтение данных",
+    "code": "web/practice_04"
+  },
+  {
+    "id": "web05",
+    "pdf": "МДК09_ПР05_Форма_Миронова_Анна_Андреевна_4-ИСП9-46.pdf",
+    "title": "МДК.09.01 №5: Flask и SQLite: добавление данных",
+    "code": "web/practice_05"
+  },
+  {
+    "id": "linux_system",
+    "pdf": "МДК05_01_linux_system_Миронова_Анна_Андреевна_4-ИСП9-46.pdf",
+    "title": "МДК.05.03: Тестирование типовых ИС в Linux",
+    "code": "testing/linux_system"
+  },
+  {
+    "id": "linux_kernel",
+    "pdf": "МДК05_02_linux_kernel_Миронова_Анна_Андреевна_4-ИСП9-46.pdf",
+    "title": "МДК.05.03: Bash: базовые проверки ИС и обработка сбоев",
+    "code": "testing/linux_kernel"
+  },
+  {
+    "id": "bash_basics",
+    "pdf": "МДК05_03_bash_basics_Миронова_Анна_Андреевна_4-ИСП9-46.pdf",
+    "title": "МДК.05.03: Bash, часть 1: отдельные тесты и общий запуск",
+    "code": "testing/bash_basics"
+  },
+  {
+    "id": "bash_extended",
+    "pdf": "МДК05_04_bash_extended_Миронова_Анна_Андреевна_4-ИСП9-46.pdf",
+    "title": "МДК.05.03: Bash, часть 2: логи, архивы, INI, CSV и порты",
+    "code": "testing/bash_extended"
+  },
+  {
+    "id": "json_operations",
+    "pdf": "МДК05_05_json_operations_Миронова_Анна_Андреевна_4-ИСП9-46.pdf",
+    "title": "МДК.05.03: JSON, часть 3: чтение, запись и отчёты",
+    "code": "testing/json_operations"
+  },
+  {
+    "id": "json_validation",
+    "pdf": "МДК05_06_json_validation_Миронова_Анна_Андреевна_4-ИСП9-46.pdf",
+    "title": "МДК.05.03: JSON, часть 4: структура, типы и ограничения",
+    "code": "testing/json_validation"
+  },
+  {
+    "id": "postman",
+    "pdf": "МДК05_07_postman_Миронова_Анна_Андреевна_4-ИСП9-46.pdf",
+    "title": "МДК.05.03: Postman: установка, коллекция и первые API-тесты",
+    "code": "testing/postman"
+  },
+  {
+    "id": "stlc",
+    "pdf": "МДК05_08_stlc_Миронова_Анна_Андреевна_4-ИСП9-46.pdf",
+    "title": "МДК.05.03: Методологии тестирования и практический цикл STLC",
+    "code": "testing/stlc"
+  }
+]

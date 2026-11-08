@@ -1,0 +1,320 @@
+[
+  {
+    "name": "python_tests",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "compile",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "web01_init",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "web01_repeat",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "web01_schema",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "bash_basics_healthy",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "bash_basics_stopped",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "bash_basics_duplicate",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "linux_kernel_healthy",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "linux_kernel_stopped",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "linux_kernel_duplicate",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "backup_setup",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "extended_healthy",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "extended_broken_backup",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "extended_empty_config",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "extended_duplicate_csv",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "system_insecure_permissions",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "system_error_log",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "system_full",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "system_after_fix",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "stlc_healthy",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "stlc_missing_robots",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "stlc_restored",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "stlc_public_example",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "bash_real_stop",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "jsonops_01_write",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonops_02_read",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonops_04_format",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonops_users_report",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonops_warehouse_report",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonops_healthy",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonops_edit",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonops_after_edit",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonops_homework_edit",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonops_diff",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonops_pretty",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonops_broken",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "jsonops_json_tool_broken",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "jsonops_reset",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonops_restored",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonval_healthy",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "jsonval_syntax",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "jsonval_missing",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "jsonval_type",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "jsonval_duplicate",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "jsonval_extra",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "jsonval_email",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "jsonval_encoding",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "jsonval_price",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "jsonval_status",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  },
+  {
+    "name": "jsonval_restored",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "postman_positive",
+    "expected_exit": 0,
+    "actual_exit": 0,
+    "verified": true
+  },
+  {
+    "name": "postman_negative",
+    "expected_exit": 1,
+    "actual_exit": 1,
+    "verified": true
+  }
+]
